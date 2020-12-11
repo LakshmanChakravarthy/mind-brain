@@ -42,6 +42,11 @@
 1. [More is different](https://www.jstor.org/stable/1734697?seq=1#metadata_info_tab_contents) by P.W. Anderson
 
 
+# Popular Science
+
+1. [The Connectome Debate: Is Mapping the Mind of a Worm Worth It?](https://www.scientificamerican.com/article/c-elegans-connectome/)
+
+
 ### Current day job
 
 Project associate, Emotion and Cognition Lab (PI: Srikanth Padmala) at Centre for Neuroscience, Indian Institute of Science, Bangalore, India
