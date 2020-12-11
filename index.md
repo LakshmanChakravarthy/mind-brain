@@ -1,6 +1,6 @@
 # Perspective articles
 
-![Thinking](https://images.unsplash.com/photo-1522435229388-6f7a422cd95b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+![Thinking](https://github.com/LakshmanChakravarthy/mind-brain/blob/gh-pages/thinking.jpg)
 
 1a. [The Brain–Cognitive Behavior Problem: A Retrospective](https://www.eneuro.org/content/7/4/ENEURO.0069-20.2020) by György Buzsáki
 
