@@ -23,6 +23,8 @@
 
 2. [Neural population dynamics during reaching](https://www.nature.com/articles/nature11129) by Mark M. Churchland, John P. Cunningham, Matthew T. Kaufman, Justin D. Foster, Paul Nuyujukian, Stephen I. Ryu & Krishna V. Shenoy 
 
+3. [Switching neurons are integral members of multiple oscillatory networks](https://www.sciencedirect.com/science/article/abs/pii/S0960982200001998?via%3Dihub) by James M.Weimann & Eve Marder
+
 
 # Theory building in Psychology
 
