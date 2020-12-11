@@ -16,6 +16,12 @@
 
 7. [The primacy of behavioral research for understanding the brain](https://psyarxiv.com/y8mxe/) by Yael Niv
 
+8. [Resynthesizing behavior through phylogenetic refinement](https://link.springer.com/article/10.3758%2Fs13414-019-01760-1) by Paul Cisek
+
+9. [What does it mean to understand a neural network?](https://arxiv.org/abs/1907.06374) by Timothy P. Lillicrap & Konrad P. Kording
+
+10. [Could a Neuroscientist Understand a Microprocessor?](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268) by Eric Jonas & Konrad P. Kording
+
 
 # Modern Classics
 
