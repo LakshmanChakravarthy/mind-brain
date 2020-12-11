@@ -22,6 +22,8 @@
 
 10. [Could a Neuroscientist Understand a Microprocessor?](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268) by Eric Jonas & Konrad P. Kording
 
+11. [Your Brain is Like a Computer: Function, Analogy, Simplification](https://drive.google.com/file/d/1qqUHX7n_ITNyqVu_hD7HE_qW1s4eCnkb/view) by Mazviita Chirimuuta
+
 
 # Modern Classics
 
