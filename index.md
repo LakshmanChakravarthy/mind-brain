@@ -55,6 +55,10 @@
 
 1. [The Connectome Debate: Is Mapping the Mind of a Worm Worth It?](https://www.scientificamerican.com/article/c-elegans-connectome/)
 
+# Topics
+
+1. [Causality](https://lakshmanchakrav.github.io/causality)
+
 
 ### Current day job
 
