@@ -58,6 +58,11 @@
 # Topics
 
 1. [Causality](https://lakshmanchakravarthy.github.io/causality)
+2. [Dimensionality](https://lakshmanchakravarthy.github.io/dimensionality)
+3. [Dynamics](https://lakshmanchakravarthy.github.io/dynamics)
+4. [Networks](https://lakshmanchakravarthy.github.io/networks)
+5. [Naturalistic Paradigms](https://lakshmanchakravarthy.github.io/naturalisticParadigms)
+6. [Understanding](https://lakshmanchakravarthy.github.io/understanding)
 
 
 ### Current day job
