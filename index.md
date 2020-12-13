@@ -1,68 +1,16 @@
-# Perspective articles
-
-1a. [The Brain–Cognitive Behavior Problem: A Retrospective](https://www.eneuro.org/content/7/4/ENEURO.0069-20.2020) by György Buzsáki
-
-1b. [Against the Epistemological Primacy of the Hardware: The Brain from Inside Out, Turned Upside Down](https://www.eneuro.org/content/7/4/ENEURO.0215-20.2020) by David Poeppel & Federico Adolfi
-
-2. [Neuroscience Needs Behavior: Correcting a Reductionist Bias](https://www.sciencedirect.com/science/article/pii/S0896627316310406?via%3Dihub) by John W.Krakauer, Asif A.Ghazanfar, AlexGomez-Marin, Malcolm A.MacIver & DavidPoeppel
-
-3. [Is coding a relevant metaphor for the brain?](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/is-coding-a-relevant-metaphor-for-the-brain/D578626E4888193FFFAE5B6E2C37E052) by Romain Brette
-
-4. [The Flatland Fallacy: Moving Beyond Low–Dimensional Thinking](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12404) by Eshin Jolly & Luke J. Chang
-
-5. [The Life of Behavior](https://www.sciencedirect.com/science/article/pii/S0896627319307901) by AlexGomez-Marin & Asif A.Ghazanfar
-
-6. [From circuits to behavior: a bridge too far?](https://www.nature.com/articles/nn.3043?source=post_page---------------------------) by Matteo Carandini
-
-7. [The primacy of behavioral research for understanding the brain](https://psyarxiv.com/y8mxe/) by Yael Niv
-
-8. [Resynthesizing behavior through phylogenetic refinement](https://link.springer.com/article/10.3758%2Fs13414-019-01760-1) by Paul Cisek
-
-9. [What does it mean to understand a neural network?](https://arxiv.org/abs/1907.06374) by Timothy P. Lillicrap & Konrad P. Kording
-
-10. [Could a Neuroscientist Understand a Microprocessor?](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268) by Eric Jonas & Konrad P. Kording
-
-11. [Your Brain is Like a Computer: Function, Analogy, Simplification](https://drive.google.com/file/d/1qqUHX7n_ITNyqVu_hD7HE_qW1s4eCnkb/view) by Mazviita Chirimuuta
-
-
-# Modern Classics
-
-1. [Neural Manifolds for the Control of Movement](https://www.sciencedirect.com/science/article/pii/S0896627317304634) by Juan A.Gallego, Matthew G.Perich, Lee E.Miller & Sara A.Solla
-
-2. [Neural population dynamics during reaching](https://www.nature.com/articles/nature11129) by Mark M. Churchland, John P. Cunningham, Matthew T. Kaufman, Justin D. Foster, Paul Nuyujukian, Stephen I. Ryu & Krishna V. Shenoy 
-
-3. [Switching neurons are integral members of multiple oscillatory networks](https://www.sciencedirect.com/science/article/abs/pii/S0960982200001998?via%3Dihub) by James M.Weimann & Eve Marder
-
-
-# Theory building in Psychology
-
-1. [How to Translate a Verbal Theory Into a Formal Model](https://econtent.hogrefe.com/doi/10.1027/1864-9335/a000425) by Paul E. Smaldino
-
-2. [Theory before the test: How to build high-verisimilitude explanatory theories in psychological science](https://github.com/LakshmanChakravarthy/mind-brain/blob/gh-pages/Theory%20before%20the%20test%20(preprint%20v5).pdf) by Iris van Rooij & Giosuè Baggio
-
-3. [How computational modeling can force theory building in psychological science](https://github.com/LakshmanChakravarthy/mind-brain/blob/gh-pages/GuestMartin2020.pdf) by Olivia Guest & Andrea E. Martin
-
-4. [Invisible Hands and Fine Calipers: A Call to Use Formal Theory as a Toolkit for Theory Construction](https://github.com/LakshmanChakravarthy/mind-brain/blob/gh-pages/InvisibleHands_FormalTheoryToolkit.pdf
-) by Donald J. Robinaugh, Jonas M. B. Haslbeck, Oisín Ryan, Eiko I. Fried, and Lourens J.Waldorp
-
-
-# Hidden Gems
-
-1. [More is different](https://www.jstor.org/stable/1734697?seq=1#metadata_info_tab_contents) by P.W. Anderson
-
-
-# Popular Science
-
-1. [The Connectome Debate: Is Mapping the Mind of a Worm Worth It?](https://www.scientificamerican.com/article/c-elegans-connectome/)
-
 # Topics
 
 1. [Causality](https://lakshmanchakravarthy.github.io/causality)
+2. [Neural Codes](https://lakshmanchakravarthy.github.io/neuralCodes)
 2. [Dimensionality](https://lakshmanchakravarthy.github.io/dimensionality)
 3. [Dynamics](https://lakshmanchakravarthy.github.io/dynamics)
 4. [Networks](https://lakshmanchakravarthy.github.io/networks)
 5. [Naturalistic Paradigms](https://lakshmanchakravarthy.github.io/naturalisticParadigms)
 6. [Understanding](https://lakshmanchakravarthy.github.io/understanding)
+7. [Psychological constructs](https://lakshmanchakravarthy.github.io/psychologicalConstructs)
+8. [Theory in Psychology](https://lakshmanchakravarthy.github.io/theoryInPsychology)
+9. [Autopoesis](https://lakshmanchakravarthy.github.io/autopoesis)
+10. [General](https://lakshmanchakravarthy.github.io/general)
 
 
 ### Current day job
