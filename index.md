@@ -57,7 +57,7 @@
 
 # Topics
 
-1. [Causality](https://lakshmanchakrav.github.io/causality)
+1. [Causality](https://lakshmanchakravarthy.github.io/causality)
 
 
 ### Current day job
